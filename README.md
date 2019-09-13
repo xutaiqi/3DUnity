@@ -1,6 +1,7 @@
 # 3DUnity
 作业项目
-
+视频链接
+https://v.youku.com/v_show/id_XNDM1OTg1NjQxMg==.html?spm=a2h1n.8251843.playList.5~5~A&f=52273572&o=1
 主要代码如下：
 
     using System.Collections; 
