@@ -2,12 +2,14 @@
 作业项目
 
 主要代码如下：
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+
+    using System.Collections; 
+    using System.Collections.Generic;
+    using UnityEngine;
  
-public class NewBehaviourScript : MonoBehaviour
-{
+
+    public class NewBehaviourScript : MonoBehaviour
+    {
     private int[,] chessBoard = new int[3, 3];//抽象棋盘，表示棋盘的逻辑
     private int turn = 1;//决定到哪一方
  
